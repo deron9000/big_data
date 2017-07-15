@@ -1,5 +1,8 @@
 List of Data Science Projects to be completed and Investigated:
 
+Note: We will not modify raw data, we work on a copy
+
+
 1. Iris Flower Data
 
 - Goal: Classification problem aiming to make accurate predictions of the flower's

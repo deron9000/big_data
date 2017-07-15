@@ -1,0 +1,29 @@
+Author: Deron K. Holmes (deron900)
+Title: On Morphological Classifications of the Iris Flower
+Subjects: Various Iris Flowers
+Problem Type: Classification
+
+Purpose: To classify variations of Iris flowers based on their morphological attributes
+
+Materials:
+  - Data sets by Edgar Anderson and Gape Peninsula.
+
+Methods:
+  - Collection & Preparation: Collect Data, Prepare Code, Setup structure of data, Enter Data, Screen Data
+  - Exploration: Descriptive Stats, Graphs
+  - Analysis: Explore relationships between variables, group comparison
+
+  Observations:
+    - Iris setosa which looks slightly withered and conic with occasional bright yellow and white finishes on the insides of the "cones."
+      Also seems to have little variation from the stem in 3's
+
+    - Iris versicolor appears more vibrant than setosa, having a similar sprout of 3's from the stem.
+      On the edges of the central flowering body, there appear to be flat beds with the same touch as seen I. setosa's conics.
+
+    - Iris virginica presents the 3 flowering bodies from the center but appears most pale and white.
+      It is quite similar to I. versicolor in more respects than it is to setosa. Flat beds with more of a pronounced yellow "stain."
+
+
+  Hypotheses:
+    Drawing a testable hypothesis we will establish the null hypothesis,
+    alternative hypothesis, all with a P-value of < 0.05
