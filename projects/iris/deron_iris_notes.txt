@@ -27,3 +27,13 @@ Methods:
   Hypotheses:
     Drawing a testable hypothesis we will establish the null hypothesis,
     alternative hypothesis, all with a P-value of < 0.05
+
+  We use R to make our determinations. First must install R.
+    Goals:
+      - Install R,
+      - Add packages from Comprehensive R Archive Network (CRAN)
+
+    Installing R on Ubuntu 16:
+      - sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys
+
+   Here are some basic functions in R:
